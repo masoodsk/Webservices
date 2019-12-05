@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22004" started-at="2019-12-05T07:34:33Z" finished-at="2019-12-05T07:34:55Z">
+    <groups>
+    </groups>
+    <test name="orange" duration-ms="22004" started-at="2019-12-05T07:34:33Z" finished-at="2019-12-05T07:34:55Z">
+      <class name="testcases.Testcases">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testcases.Testcases@6093dd95]" name="setup" is-config="true" duration-ms="16913" started-at="2019-12-05T07:34:34Z" finished-at="2019-12-05T07:34:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Tc_Adduser()[pri:0, instance:testcases.Testcases@6093dd95]" name="Tc_Adduser" duration-ms="4431" started-at="2019-12-05T07:34:50Z" finished-at="2019-12-05T07:34:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_Adduser -->
+      </class> <!-- testcases.Testcases -->
+    </test> <!-- orange -->
+  </suite> <!-- Suite -->
+</testng-results>
